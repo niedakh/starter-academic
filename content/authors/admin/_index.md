@@ -36,8 +36,8 @@ education:
     institution: Department of Computational Intelligence, Wrocław University of Science and Technology 
     year: 2020
   - course: PhD in Mathematics (abandoned)
-      institution: Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology
-      year: 2009-2012
+    institution: Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology
+    year: 2009-2012
   - course: MSc BEng in Computer Science, Algorythm Analysis
     institution: Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology
     year: 2009
