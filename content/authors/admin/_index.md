@@ -10,11 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
-- Assistant Professor in 
-- Machine Learning Engineer in Avaya Inc.
-- Chairman of the Society for Beautification of the City of Wrocław
-- Vice-charmain of the Wrocław's District Council of Brochów 
+role: Assistant Professor at Wrocław University of Science & Technology; Machine Learning Engineer in Avaya Inc.; - Chairman of the Society for Beautification of the City of Wrocław; Vice-charmain of the Wrocław's District Council of Brochów 
 
 
 # Organizations/Affiliations
@@ -23,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Piotr Szymański is an assistant Professor at the Department of Computational Intelligence at the Wrocław University of Science and Technology and a Machine Learning Engineer at Avaya. Professionally involved in data analysis, statistical reasoning, geospatial data science, natural language processing, machine learning and artificial intelligence techniques. He is an alumni of the Top 500 Innovators program at Stanford University, worked in several institutions over the years incl. Hasso Plattner Institute in Potsdam, Josef Stefan Institute in Ljubljana, University of Notre Dame and University of Technology Sydney. He is the author of scikit-multilearn, a popular python library for multi-label classification. Apart from multi-label classification, Piotr published papers concerning urban data, traffic analysis and bridging the gap between ASR and NLP in spoken language understanding systems. In his free time he is an urban activist in Wrocław and a member of a city district council.
 
 interests:
 - Artificial Intelligence
@@ -75,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Piotr Szymański is an assistant Professor at the Department of Computational Intelligence at the Wrocław University of Science and Technology and a Machine Learning Engineer at Avaya. Professionally involved in data analysis, statistical reasoning, geospatial data science, natural language processing, machine learning and artificial intelligence techniques. He is an alumni of the Top 500 Innovators program at Stanford University, worked in several institutions over the years incl. Hasso Plattner Institute in Potsdam, Josef Stefan Institute in Ljubljana, University of Notre Dame and University of Technology Sydney. He is the author of scikit-multilearn, a popular python library for multi-label classification. Apart from multi-label classification, Piotr published papers concerning urban data, traffic analysis and bridging the gap between ASR and NLP in spoken language understanding systems. In his free time he is an urban activist in Wrocław and a member of a city district council.
